@@ -1,0 +1,46 @@
+.musica-body{
+  background: url(../img/fondo.jpg);
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  width: 100%;
+  height: 100%;
+
+}
+header{
+  background-color: white;
+}
+
+.redes-sociales {
+  margin-top: 100px;
+  text-align: center;
+}
+
+.img-social {
+  margin: -4px;
+  width: 50px;
+  height: 50px;
+}
+.container{
+  margin-top: 10px;
+  width: 95%;
+}
+.navbar{
+background-color: orange;
+}
+.navbar2{
+background-color: white;
+}
+ul [class*="navegacion"]{
+text-align: justify;
+padding-top: 6px;
+}
+
+p, h1{
+  margin:10px;
+}
+.img-musica{
+margin: 40px;
+width: 85%;
+}
