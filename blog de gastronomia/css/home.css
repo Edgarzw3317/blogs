@@ -1,0 +1,26 @@
+img{
+  width: 100%;
+}
+body{
+  background: url(../img/1.jpg);
+background-attachment: fixed;
+background-repeat: no-repeat;
+background-position: center center;
+background-size: cover;
+width: 100%;
+height: 100%;
+}
+.comentario-img{
+  width: 50px;
+  border-radius: 10px;
+
+}
+.comentarios{
+  border: 1px solid gray;
+  border-radius: 10px;
+}
+.contenedor{
+  background-color: rgba(0,0,255,0.2);
+  width: 70%;
+  margin: auto;
+}
